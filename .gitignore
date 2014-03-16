@@ -6,3 +6,8 @@
 *.ear
 
 *.swp
+/.settings/
+/bin/
+/.project
+/.classpath
+
